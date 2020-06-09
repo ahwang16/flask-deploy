@@ -11,5 +11,6 @@ phases:
 artifacts:
   files:
     - 'Dockerfile'
+    - Dockerrun.aws.json
     - requirements.txt
     - application.py
