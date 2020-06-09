@@ -10,7 +10,6 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - 'Dockerfile'
-    - Dockerrun.aws.json
+    - Dockerfile
     - requirements.txt
     - application.py
